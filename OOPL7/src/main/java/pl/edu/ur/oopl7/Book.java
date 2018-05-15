@@ -2,7 +2,7 @@ package pl.edu.ur.oopl7;
 
 /**
  *
- * @author mchyla
+ * @author Kasia
  */
 class Book extends Product {
 
